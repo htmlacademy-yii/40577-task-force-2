@@ -1,7 +1,7 @@
 # Личный проект «TaskForce»
 
 * Студент: [Игорь Ефремов](https://up.htmlacademy.ru/yii/2/user/40577).
-* Наставник: `Неизвестно`.
+* Наставник: [Станислав Матвеев](https://htmlacademy.ru/profile/id1265925).
 
 ---
 
